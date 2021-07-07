@@ -1,3 +1,4 @@
+# https://github.com/github/gitignore/blob/master/UnrealEngine.gitignore
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -72,3 +73,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# git lfs and github seem to have a 2GB limit on large files and some megascans have some large > 2GB zip files
+Content/*.zip
+*.zip
