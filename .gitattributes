@@ -13,7 +13,6 @@
 *.jpg filter=lfs diff=lfs merge=lfs -text
 # Megascans has zips
 *.zip filter=lfs diff=lfs merge=lfs -text
-Content/*/*.zip filter=lfs diff=lfs merge=lfs -text
 # World Machine Builder files:
 *.r16 filter=lfs diff=lfs merge=lfs -text
 *.tmd filter=lfs diff=lfs merge=lfs -text
