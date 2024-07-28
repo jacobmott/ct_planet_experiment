@@ -1,0 +1,21 @@
+#!/bin/sh
+git rm -r --cached 3dplant_grass_smdoejyr
+git rm -r --cached grass_grass_smdrailr
+git rm -r --cached grass_wild_tcepfcfr
+git rm -r --cached grass_wild_uddmcgbia
+git rm -r --cached plants_3d_qmBr2
+git rm -r --cached plants_3d_rbEkI
+git rm -r --cached plants_3d_rbEkP
+git rm -r --cached plants_3d_rbEla
+git rm -r --cached plants_3d_rbdoo
+git rm -r --cached plants_3d_rbojr
+git rm -r --cached plants_3d_rbptq
+git rm -r --cached plants_3d_sjliZ
+git rm -r --cached plants_3d_skFjJ
+git rm -r --cached plants_3d_skljc
+git rm -r --cached plants_3d_sktne
+git rm -r --cached plants_3d_slBiJ
+git rm -r --cached plants_3d_slBjG
+git rm -r --cached plants_3d_slBm1
+git rm -r --cached plants_3d_slfpffjr
+git rm -r --cached plants_3d_slglZ
